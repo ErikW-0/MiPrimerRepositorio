@@ -1,0 +1,1 @@
+"Pruebas iniciales del m¢dulo principal y registro de errores." 
