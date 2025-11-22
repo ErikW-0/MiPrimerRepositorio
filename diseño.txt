@@ -1,0 +1,1 @@
+"Boceto inicial de la estructura y componentes del sistema." 
